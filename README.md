@@ -4,6 +4,7 @@ Last updated: 2026-09-21 (afternoon cleanup: removed 10 dead/expired postings, m
 
 | Company | Role | Location | First seen | Link | Deadline | Status | Notes |
 |---|---|---|---|---|---|---|---|
+| 🔥 Stripe | Software Engineer, Early Career (Immediate Start) | Toronto, ON (on-site) | 2026-09-21 | [Posting](https://stripe.com/careers/listing/software-engineer-early-career-immediate-start/8212517?gh_src=73vnei) |  | Applied (2026-09-21) | Immediate start (before Dec 1, 2026); CA$106.4K-159.6K range. Applied 2026-09-21; tailored resume + official transcript attached. |
 | Affirm | Software Engineer I, Frontend (Upfunnel) | Remote, Canada | 2026-09-20 | [Posting](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | | Applied (2026-09-17) | Posted Sep 11; confirmed applied on Sep 17 via Gmail receipt |
 | PheedLoop | Software Engineer, Entry Level | Toronto, ON | 2026-09-20 | [Posting](https://www.linkedin.com/jobs/view/4468253298) |  | Applied (2026-09-21) | Event-tech startup, full-stack; ~$65K. Applied 2026-09-21; doraemon filled the full application, Dhruvil reviewed and submitted. |
 | EvenUp | Software Engineer (New Grad), Data Products | Toronto, ON | 2026-09-20 | [Posting](https://www.linkedin.com/jobs/view/4458338392) |  | Applied | AI legal-tech, ~$130K/yr. Note: your profile lists an earlier EvenUp process as closed/rejected, so check whether this is a distinct role before reapplying Marked applied 2026-09-21 per Dhruvil; exact application date not confirmed. |
