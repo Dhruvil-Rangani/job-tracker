@@ -3,18 +3,7 @@
 Last updated: 2026-09-24 (evening sweep: 8 new postings from Jobright recommend — Stripe Backend Engineer Payments, Feathery Early Career Full Stack, Thumbtack AI/ML Infra, DataVisor, Synpulse AI Solutions, Texas Instruments Full Stack (deduped: sweep's Jobright row merged into Dhruvil's existing TI row), Applied Systems, Beacon Software; Dhruvil's updates earlier today: Scotiabank Junior SWE applied, Xsolla Full Stack AI Engineer applied, Opendoor Software Engineer applied, TI Full Stack Developer applied, link replaced with live posting URL on jobs.scotiabank.com, Req 264671, Toronto ON; Xero Front End applied; Xero Front End applied; Xero Back End not applying; Motorola removed as 30+ days old posting; Medcan removed; Slice applied; PolicyMe applied). Seeded with the 8 postings from the Sept 19 sweep; the Sept 20 morning refresh added 4 new ones; the Sept 21 morning refresh added 4 more; a Sept 21 afternoon Canada-focused search added 4 more; Sept 22 added 4 self-applied roles (Intuit, Zafin, 2x Konrad). Each morning's sweep adds newly reported postings here automatically, and the morning message includes this file so you can see everything in one place. Newest postings sit at the top of the table. Note: as of 2026-09-21 the search is Canada-only because Dhruvil has no US work authorization.
 
 | # | Company | Role | Location | First seen | Link | Deadline | Status | Notes |
-|------|---|---|---|---|---|---|---|
-|------|---|---|---|---|---|---|---|
-|------|---|---|---|---|---|---|---|
-|------|---|---|---|---|---|---|---|
-|------|---|---|---|---|---|---|---|
-|------|---|---|---|---|---|---|---|
-|------|---|---|---|---|---|---|---|
-|------|---|---|---|---|---|---|---|
-|------|---|---|---|---|---|---|---|
-
-Deadlines stay blank unless a posting states one. A status changes only when you report an application, so nothing here is marked applied on its own.
-
+|---|---|---|---|---|---|---|---|
 | 30 | 🔥 Stripe | Backend Engineer, Payments | Toronto, ON (on-site) | 2026-09-24 | [Posting](https://jobright.ai/jobs/info/6a84acbe7b33d722762577e3) |  | Not applied | Dream company; posted 3 days ago per Jobright (surfaced under entry-level recommendations); level unconfirmed, verify before applying. |
 | 29 | Feathery | Full Stack Engineer, Early Career | Toronto, ON (on-site) | 2026-09-24 | [Posting](https://jobright.ai/jobs/info/6a59094cc8e3a473cb8a4968) |  | Not applied | AI/agentic data intake startup; posted 2 weeks ago per Jobright; stack unconfirmed, verify before applying. |
 | 28 | Thumbtack | Software Engineer, AI/ML Infrastructure | Canada (city unspecified) | 2026-09-24 | [Posting](https://jobright.ai/jobs/info/69fac86b18b94b2515bdc4e9) |  | Applied (2026-09-24) | AI/ML infrastructure; $123K-$160K/yr, 1+ yrs exp; posted 2 weeks ago per Jobright; city unconfirmed, verify location before applying. |
@@ -45,3 +34,5 @@ Deadlines stay blank unless a posting states one. A status changes only when you
 | 3 | Jobright.ai | Full Stack Engineer, New Grad | Canada | 2026-09-19 | [Posting](https://jobright.ai/jobs/info/b2b_1785240113627_163) |  | Applied (2026-09-21) | Applied 2026-09-21 per Dhruvil; posting link provided by him. |
 | 2 | Zip | Software Engineer, Backend (All Levels) | Toronto, ON | 2026-09-19 | [Posting](https://builtin.com/job/software-engineer-backend-all-levels/11091280) |  | Applied (2026-08-26) | Procurement startup; officially all levels but leans senior Confirmed applied on Aug 26 via Gmail receipt from Zip Hiring Team (Ashby). |
 | 1 | Stripe | Software Engineer, New Grad 2026 | Toronto, ON | 2026-09-19 | [Posting](https://stripe.com/jobs/search?gh_jid=8157838&utm_source=Simplify&ref=Simplify) |  | Applied (2026-09-07) | Fintech new-grad track; team works on AI experiences in the product. Original posting ID (7206505) now returns "Page not found" (checked 2026-09-21); link swapped to the fresh live Toronto posting, CA$106.4K-159.6K range Confirmed applied on Sep 7 via Gmail receipt from Stripe (Greenhouse). |
+
+Deadlines stay blank unless a posting states one. A status changes only when you report an application, so nothing here is marked applied on its own.
